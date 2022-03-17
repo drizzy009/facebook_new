@@ -1,0 +1,49 @@
+.fb-login p {
+    margin-top: 0px;
+    color: grey;
+}
+
+.form-fb {
+    background-color: #fff;
+    box-sizing: border-box;
+    margin: 0px 106px 30px -47px;
+    border-radius: 6px;
+    padding: 10px 0px;
+    box-sizing: border-box;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    position: absolute;
+    top: 22%;
+    left: 62%;
+    padding-bottom: 100px;
+}
+
+.form-fb p {
+    text-align: left;
+    margin-left: 20px;
+}
+.form-fb h2 {
+    text-align: left;
+    margin-left: 20px;
+}
+
+.signup {
+    width: 45% !important;
+    margin: 0 5px !important;
+    padding: 5px !important;
+}
+
+.fullwd {
+    width: 92% !important;
+    margin-bottom: 0 !important;
+}
+
+.crea8 button {
+    background-color: #42b72a;
+    color: #fff;
+    font-weight: bolder;
+    width: 50% !important;
+    border: 0;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px 0;
+}

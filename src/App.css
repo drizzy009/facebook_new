@@ -1,5 +1,13 @@
+* {
+  list-style-type: none;
+  padding: auto;
+  margin: auto;
+  overflow: ;
+}
+
 .App {
   text-align: center;
+  background-color: #f0f2f5;
 }
 
 .App-logo {
@@ -9,7 +17,7 @@
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    animation: App-logo-spin infinite .2s linear;
   }
 }
 
